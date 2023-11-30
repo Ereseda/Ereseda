@@ -42,8 +42,7 @@
 
 <div align="left">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ereseda)](https://github.com/ereseda/github-readme-stats)
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ereseda)](https://github.com/ereseda/github-readme-stats)&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereseda)](https://github.com/ereseda/github-readme-stats)
 
 </div>
