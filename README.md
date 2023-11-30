@@ -36,9 +36,10 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/Ereseda/Ereseda/main/snake%20(1).svg"  />
 
 
