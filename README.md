@@ -29,6 +29,11 @@
 ###
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ereseda)](https://github.com/ereseda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereseda)](https://github.com/ereseda/github-readme-stats)
+
+
+
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCRoZkoOd4TOOqtsVYWYLHNg" target="_blank">
