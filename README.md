@@ -36,10 +36,8 @@
   </a>
 </div>
 
-<div align="center">
 <img align="right" height="150" src="https://raw.githubusercontent.com/Ereseda/Ereseda/main/snake%20(1).svg"  />
-</div>
-</br>
+
 
 <div align="center">
   
