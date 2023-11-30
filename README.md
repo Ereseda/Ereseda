@@ -39,11 +39,11 @@
 <div align="center">
 <img align="right" height="150" src="https://raw.githubusercontent.com/Ereseda/Ereseda/main/snake%20(1).svg"  />
 </div>
-<br>
+</br>
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereseda)](https://github.com/ereseda/github-readme-stats)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereseda)](https://github.com/ereseda/github-readme-stats) &nbsp;&nbsp;&nbsp;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ereseda)](https://github.com/ereseda/github-readme-stats)
 </div>
