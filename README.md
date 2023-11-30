@@ -29,9 +29,6 @@
 ###
 
 
-<div align="left">
-  
-</div>
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCRoZkoOd4TOOqtsVYWYLHNg" target="_blank">
