@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">Sobre Mim.<br><br>.  Estudei a linguagem de marcação HTM/CSS;<br>. Estou aprendendo a linguagem Pyton;<br>. Estudei a linguagem JavaScript;<br>. Apresentei o meu projeto final da faculdade na linguagem C#;<br>. Estudei a linguagem C e C++;<br>. Estudando PowerBI e Banco de dados.</p>
+<p align="left">Sobre Mim.<br><br>.  
+  Estudei a linguagem de marcação HTM/CSS;<br>.
+  Estou aprendendo a linguagem Pyton;<br>. 
+  Estudei a linguagem JavaScript;<br>. 
+  Apresentei o meu projeto final da faculdade na linguagem C#;<br>. 
+  Estudei a linguagem C e C++;<br>. Estudando PowerBI e Banco de dados.</p>
 
 ###
 
@@ -22,6 +27,9 @@
 </div>
 
 ###
+<div align="left">
+  
+</div>
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCRoZkoOd4TOOqtsVYWYLHNg" target="_blank">
