@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sobre Mim.<br><br>.  
+
   Estudei a linguagem de marcação HTM/CSS;<br>.
   Estou aprendendo a linguagem Pyton;<br>. 
   Estudei a linguagem JavaScript;<br>. 
